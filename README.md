@@ -55,4 +55,4 @@ The final dashboard includes:
 - **SQL Analysis:** `Olist_SQL_Analysis.sql`
 - **Dashboard:** `Olist_Dashboard.png`
 - **Documentation:** `Olist_Project_Documentation.pdf`
-- **Power BI File:** Available through the project portfolio/Drive
+- **Power BI File:** [Download/View the Power BI Dashboard](https://drive.google.com/file/d/18twwrBw-fMcarq1wk2xu5aBq3SvZZlT5/view?usp=drive_link)
